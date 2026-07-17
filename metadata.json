@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Agape Foundation Nepal",
+  "description": "A serene and modern landing page for Agape Foundation Nepal (AFN), a faith-based church ministry and drug addiction treatment center in Hattiban, Lalitpur, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
